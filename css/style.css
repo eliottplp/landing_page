@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+
+	font-family: 'Raleway', sans-serif;;
+	font-size: 20px;
+	background: rgb(50,9,121);
+background: linear-gradient(90deg, rgba(50,9,121,0.7) 0%, rgba(155,0,189,0.7) 52%, rgba(255,51,240,0.7) 100%);
+	color: white;
+}
+h1,h2,h3 {
+	font-family: helvetica, sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+p {
+	text-align: justify;
+}

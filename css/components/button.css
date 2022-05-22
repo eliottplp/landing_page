@@ -1,0 +1,15 @@
+.btn {
+	-webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+background: rgb(88,9,121);
+background: linear-gradient(90deg, rgba(88,9,121,0.8) 0%, rgba(155,0,189,0.8) 65%, rgba(207,14,192,.7) 100%);
+  padding: 10px 20px 10px 20px;
+}
+a:hover {
+  color: darkgrey;
+  text-decoration: underline;
+}
